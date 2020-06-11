@@ -1,1 +1,1 @@
-print("This file is a markdown file")
+This file is a markdown file
